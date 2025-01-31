@@ -1,1 +1,1 @@
-# -GAN-Resistant-Phishing-Detection-tool
+# GAN-Resistant-Phishing-Detection-tool
