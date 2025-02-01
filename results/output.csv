@@ -1,0 +1,8 @@
+ML Model,Train Accuracy,Test Accuracy
+Logistic Regression,0.949,0.945
+Decision Tree,0.953,0.948
+Random Forest,0.948,0.944
+Support Vector Machine,0.935,0.937
+XGBoost,0.96,0.959
+LightGBM,0.959,0.96
+CatBoost,0.958,0.954
