@@ -6,7 +6,7 @@ Phishing attacks have become one of the most prevalent cybersecurity threats, tr
 
 ## Overview
 
-This project aims to develop a phishing detection system using multiple machine learning models, including Gradient Boosting Machines (GBM), XGBoost, LightGBM, and CatBoost. The system analyzes website features to classify them as legitimate or phishing. Additionally, it leverages Generative Adversarial Networks (GANs) to generate synthetic malicious data, enhancing classifier robustness.
+A robust phishing detection framework that leverages machine learning techniques, including adversarial training and multi-modal feature extraction. By analyzing diverse data sources such as URLs, HTML content, metadata, and user behavior, This project uses GAN generated samples to avoid adversarial attacks.
 
 ## Project Structure
 ```
