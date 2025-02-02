@@ -1,1 +1,20 @@
+# Core Libraries
+numpy
+pandas
+scikit-learn
+
+# Machine Learning Models
+xgboost
+lightgbm
+catboost
+
+# Deep Learning (for GAN implementation)
+torch
+torchvision
+
+# Utility Libraries
+matplotlib
+seaborn
+
+
 
