@@ -14,8 +14,6 @@ A robust phishing detection framework that leverages machine learning techniques
 |_ requirements.txt              # List of dependencies
 |_ data/
    |_ raw/                       # Raw dataset files
-      |_ 202409.csv  # latest phishing urls(sept & oct 2024)
-      |_ 202410.csv                        
    |_ processed/                  # Processed dataset files
 |_ notebooks/                    
    |_ Phish_Legit_FeatureEngineering.ipynb  # Feature engineering notebook
