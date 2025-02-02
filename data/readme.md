@@ -6,8 +6,8 @@ It provides security alerts, phishing-related data, and other cybersecurity inte
 File Names: 202409, 202410
 Description: These files contain a list of phishing URLs reported in specific incidents as per JPCERT's latest security findings.
  
-## 2. Legit_datasets (University of New Brunswick) - https://www.unb.ca/cic/datasets/url-2016.html
-This dataset includes a collection of URLs marked as legitimate, curated by the University of New Brunswick for use in phishing detection research.
+## 2. Legit_datasets (University of New Brunswick)
+This dataset includes a collection of URLs marked as legitimate, curated by the University of New Brunswick for use in phishing detection research - https://www.unb.ca/cic/datasets/url-2016.html
 
 File Names: Legit_datasets.csv, legit_urls.json
 Description: A comprehensive list of legitimate websites used for training, evaluation, or comparison purposes in phishing detection models.
