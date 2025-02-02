@@ -19,12 +19,12 @@ This project aims to develop a phishing detection system using multiple machine 
    |_ processed/                  # Processed dataset files
 |_ notebooks/                    
    |_ Phish_Legit_FeatureEngineering.ipynb  # Feature engineering notebook
-   |_ Data_analysis.ipynb         # Data analysis notebook
+   |_ Legit_and_Phish_Analysis.ipynb         # Data analysis notebook
    |_ Model_training.ipynb        # models and its training
 |_ scripts/
    |_ feature_engineering.py      # Script for feature engineering
 |_ results/
-   |_ output_log.txt              # Logs and results
+   |_ output.csv              # Comparison of all models 
 ```
 
 ## Installation
