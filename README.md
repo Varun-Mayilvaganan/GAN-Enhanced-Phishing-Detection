@@ -76,7 +76,7 @@ The below notebook has the traditional machine learning models and its training.
 - PyTorch (for GAN implementation)
 
 ## Results
-The output logs and accuracy of classification metrics will be stored in `results/output_log.txt`.
+The output logs and accuracy of classification metrics will be stored in `results/output.csv`.
 
 ## Future Enhancements
 - Deploy as a web service using Flask or FastAPI
