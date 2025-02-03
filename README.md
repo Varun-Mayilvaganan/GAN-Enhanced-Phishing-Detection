@@ -21,6 +21,7 @@ A robust phishing detection framework that leverages machine learning techniques
    |_ Model_training.ipynb        # models and its training
 |_ scripts/
    |_ feature_engineering.py      # Script for feature engineering
+   |_ gan_samples_generate.py     # generates GAN samples
 |_ results/
    |_ output.csv              # Comparison of all models 
 ```
