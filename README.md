@@ -8,6 +8,9 @@ Phishing attacks have become one of the most prevalent cybersecurity threats, tr
 
 A robust phishing detection framework that leverages machine learning techniques, including adversarial training and multi-modal feature extraction. By analyzing diverse data sources such as URLs, HTML content, metadata, and user behavior, This project uses GAN generated samples to avoid adversarial attacks.
 
+## Methodology
+![Our Approach](results/Methodology.png)
+
 ## Project Structure
 ```
 |_ README.md                     # Project overview, setup, and usage instructions
