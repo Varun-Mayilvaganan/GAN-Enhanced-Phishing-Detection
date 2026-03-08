@@ -1,0 +1,24 @@
+# Generated data
+data/processed/cleaned_dataset.csv
+data/processed/scaler.joblib
+data/processed/GAN_phishing_samples.csv
+data/processed/GAN_legitimate_samples.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
